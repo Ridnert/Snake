@@ -1,0 +1,35 @@
+﻿  OpenGL.cpp
+D:\C\Snake\world.h(50,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C\Snake\world.h(50,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C\Snake\world.h(51,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C\Snake\world.h(51,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C\Snake\world.h(52,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C\Snake\world.h(52,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C\Snake\world.h(53,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C\Snake\world.h(53,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C\Snake\world.h(60,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C\Snake\world.h(66,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C\Snake\player.h(41,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C\Snake\player.h(41,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C\Snake\player.h(42,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C\Snake\player.h(42,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C\Snake\player.h(43,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C\Snake\player.h(43,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C\Snake\player.h(44,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C\Snake\player.h(44,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C\Snake\OpenGL.cpp(69,116): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\C\Snake\OpenGL.cpp(69,69): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Generating code
+  1 of 143 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Snake.vcxproj -> D:\C\Snake\Release\Snake.exe
